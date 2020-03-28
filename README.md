@@ -1,2 +1,5 @@
-# Introduction-to-Regression
-In this module you will be introduced to regression which plays an important role while it comes to prediction of the future by using the past historical data. You will come across various techniques such as Linear regression with one and multiple variables, along with polynomial and Support Vector Regression.
+# Introduction to Regression
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Introduction-to-Regression.svg)](https://github.com/Develop-Packt/Introduction-to-Regression/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Introduction-to-Regression.svg)](https://github.com/Develop-Packt/Introduction-to-Regression/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Introduction-to-Regression.svg)](https://github.com/Develop-Packt/Introduction-to-Regression/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Introduction-to-Regression/pulls)
